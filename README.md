@@ -32,15 +32,14 @@ URL: https://todo-list-service-39p6.onrender.com
 ## Update an Existing Task
 
 - **Request: PUT /api/todo-list/tasks/{id}**
-- **Request Body:**:
+- **Request Body:**
 
     ```sh
     {
         "title": "Buy a book - High Load Applications",
         "activeAt": "2023-08-05"
     }
-
-    ```sh
+    
 ## Delete a Task
 - **Request: DELETE /api/todo-list/tasks/{id}**
 
