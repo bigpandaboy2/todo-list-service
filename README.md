@@ -1,13 +1,7 @@
 # Todo List Microservice
 
 ## Project Description
-This microservice provides a RESTful API for managing a Todo List.
-
-## Requirements
-- Docker
-- Docker Compose
-- Go
-- Render
+This microservice provides a RESTful API for managing a Todo List. It provides endpoints for creating, updating, deleting, marking as done, and listing tasks.
 
 ## Installation
 1. Clone the repository:
@@ -22,9 +16,8 @@ This microservice provides a RESTful API for managing a Todo List.
    make run
    ```
 
-## Deployment
-1. Ensure you have a Render account.
-2. Deploy the project on Render following their deployment guide.
+## Deployment on RENDER
+# URL: https://todo-list-service-39p6.onrender.com
 
 ## API Usage
 ### Create a New Task
